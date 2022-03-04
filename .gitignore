@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Nice String/Task/build/
+/Nice String/Task/out/
+/Nice String/Task/out/production/classes/
+/Nice String/Task/out/test/classes/
+/Taxi Park/Task/out/
+/Taxi Park/Task/out/production/classes/
+/Taxi Park/Task/out/test/classes/
